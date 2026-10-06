@@ -1,0 +1,7 @@
+{
+  "name": "AOS: The Agentic Operating System",
+  "description": "An entity-agnostic operating system for businesses where intelligence proposes, the deterministic governance kernel authorizes, and a cryptographic provenance chain enforces accountability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
